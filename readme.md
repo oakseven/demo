@@ -4,7 +4,7 @@ Version: 1.0.0
 
 ## Contributors:
 
-Charlie Fox ( [@oaksevn](http://twitter.com/oakseven) / [oakseven.com](http://oakseven.com) )
+Charlie Fox ( [@oakseven](http://twitter.com/oakseven) / [oakseven.com](http://oakseven.com) )
 
 ## Summary
 
